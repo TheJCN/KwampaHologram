@@ -1,0 +1,6 @@
+name: KwampaHologram
+version: '${project.version}'
+main: jcn.kwampahologram.KwampaHologram
+api-version: '1.20'
+softdepend:
+  - DecentHolograms

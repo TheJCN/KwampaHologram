@@ -1,0 +1,4 @@
+name: KwampaHologram
+version: '1.0'
+main: jcn.kwampahologram.KwampaHologram
+api-version: '1.20'
